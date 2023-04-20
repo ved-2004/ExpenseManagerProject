@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/edit_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/edit_expense.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/edit_expense_in_history.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/edit_expense_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/frag_add_exp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/frag_frag_dist.xml" value="0.190625" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/fragment_overview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/fragment_piegraph.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/listview_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/nav_header_main.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/overview_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/prompts.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tab1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tab1_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tab2.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tab4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tab_history_week_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tabhistory_month.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tabhistory_week.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/tabhistory_year.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/transfer_item.xml" value="0.2390625" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/layout/welcome_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Desktop/ANDROID/ExpenseManagementProject/app/src/main/res/menu/main.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

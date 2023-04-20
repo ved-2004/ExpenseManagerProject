@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@mipmap/pentagon"
+            android:id="@+id/Overview"
+            android:title="Overview"/>
+        <item
+            android:id="@+id/History"
+            android:title="History"
+            android:icon="@mipmap/reorder"/>
+        <item
+            android:id="@+id/Graph_all"
+            android:icon="@mipmap/pie"
+            android:title="Budget"/>
+        <item
+            android:id="@+id/Distribution"
+            android:title="Distribution"
+            android:icon="@mipmap/dis"/>
+    </group>
+
+</menu>
